@@ -11,6 +11,8 @@ public class Reverse {
             arr[right]=temp;
             left++;
             right--;
+
+
         }
         System.out.print(Arrays.toString(arr));
     }
